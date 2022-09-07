@@ -8,4 +8,6 @@
 * 6. import app firebase init.js into your app.js
 * 7. import getAuth from firebase/auth and create auth = getAuth(app)
 * 8. turn on google authetication (firebase > autehntication > google sign in)
+* 9. create google provider
+* 10. 
 */
